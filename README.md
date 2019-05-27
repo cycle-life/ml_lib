@@ -1,9 +1,7 @@
 # ml_lib
-This is the Readme file for the ml_lib Project
+ml_lib: Machine Learning ECS Hackweek Dallas Project for 
+Lithium-Ion Battery Capacity Predictions
 
-<<<<<<< HEAD
-
-=======
 Objectives of the project are as follows:
 
 To find out how many cycles of data are needed to predict the end of battery cycle life
@@ -21,4 +19,6 @@ terminal, change directories to the repo, and then enter
 
 `conda env create -f environment.yml`
 
->>>>>>> bc8121fb26f290924be8cf5e809f808cebaee17b
+Then you can enter
+
+`source activate cycle-life`
