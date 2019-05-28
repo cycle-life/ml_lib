@@ -26,5 +26,5 @@ Then you can enter
 The list of features are taken from *insert citation here for 
 Severson et al., Nature (2019)
 
-![texty_text][./images/image_1_features.png]
-![texty_text2][./images/image_2_features.png]
+![alt text](./images/image_1_features.png)
+![alt text](./images/image_2_features.png)
