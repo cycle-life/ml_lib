@@ -22,3 +22,9 @@ terminal, change directories to the repo, and then enter
 Then you can enter
 
 `source activate cycle-life`
+
+The list of features are taken from *insert citation here for 
+Severson et al., Nature (2019)
+
+![alt text](./images/image_1_features.PNG)
+![alt text](./images/image_2_features.PNG)
