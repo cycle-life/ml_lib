@@ -1,7 +1,7 @@
 # ml_lib
 ml_lib: Machine Learning ECS Hackweek Dallas Project for 
 Lithium-Ion Battery Capacity Predictions
-https://energy.stanford.edu/sites/g/files/sbiybj9971/f/346501527888d799d94279cfe74049fde53ca2d5a1275d083d28f925253cf657.pdf
+https://energy.stanford.edu/sites/g/files/sbiybj9971/f/346501527888d799d94279cfe74049fde53ca2d5a1275d083d28f925253cf657.pdf  
 Objectives of the project are as follows:
 
 To find out how many cycles of data are needed to predict the end of battery cycle life
